@@ -14,10 +14,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Harrogate Advertiser: [Concern as people in Harrogate stop seeking urgent treatment for non-coronavirus-related illnesses](https://www.harrogateadvertiser.co.uk/health/coronavirus/concern-people-harrogate-stop-seeking-urgent-treatment-non-coronavirus-related-illnesses-2545072) *21 April 2020*
 * Chichester Observer: [Video and phone appointments on the rise as GPs in West Sussex adapt to lockdown](https://www.chichester.co.uk/health/video-and-phone-appointments-rise-gps-west-sussex-adapt-lockdown-2550199) *26 April 2020*
 * Teeside Live: [Almost all Teesside GP appointments now being done by video or phone as doctors issue reminder](https://www.gazettelive.co.uk/news/teesside-news/almost-teesside-gp-appointments-now-18150846) *26 April 2020*
-
-
-
-
+* Sussex Express: [GP appointments in East Sussex have dramatically changed since lockdown – here’s how](https://www.sussexexpress.co.uk/health/gp-appointments-east-sussex-have-dramatically-changed-lockdown-heres-how-2600712) *30 April 2020*
 
 
 ## Get the data
