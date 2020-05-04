@@ -15,6 +15,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Chichester Observer: [Video and phone appointments on the rise as GPs in West Sussex adapt to lockdown](https://www.chichester.co.uk/health/video-and-phone-appointments-rise-gps-west-sussex-adapt-lockdown-2550199) *26 April 2020*
 * Teeside Live: [Almost all Teesside GP appointments now being done by video or phone as doctors issue reminder](https://www.gazettelive.co.uk/news/teesside-news/almost-teesside-gp-appointments-now-18150846) *26 April 2020*
 * Sussex Express: [GP appointments in East Sussex have dramatically changed since lockdown – here’s how](https://www.sussexexpress.co.uk/health/gp-appointments-east-sussex-have-dramatically-changed-lockdown-heres-how-2600712) *30 April 2020*
+* Wigan Today: [Wigan GPs transforming the way they see patients to limit the spread of Covid-19](https://www.wigantoday.net/health/coronavirus/wigan-gps-transforming-way-they-see-patients-limit-spread-covid-19-2652821) *1 May 2020*
 
 
 ## Get the data
